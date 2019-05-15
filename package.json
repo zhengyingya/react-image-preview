@@ -1,5 +1,5 @@
 {
-  "name": "react-image-preview",
+  "name": "imgpreview-react",
   "version": "1.0.0",
   "description": "",
   "main": "dist/bundle.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ynqc/toast.git"
+    "url": "git@github.com:zhengyingya/react-image-preview.git"
   }
 }

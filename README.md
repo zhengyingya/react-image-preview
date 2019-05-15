@@ -8,14 +8,14 @@
 ## install
 
 ```shell
-npm install react-image-preview -S
+npm install imgpreview-react  -S
 ```
 
 ## example
 
 ```shell
 import React from "react"
-import ImagePreview from "react-image-preview";
+import ImagePreview from "imgpreview-react";
 
 class App extends React.Component {
   constructor(props) {
